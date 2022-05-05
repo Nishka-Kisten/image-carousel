@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
+
+* {
+    background-color: #ece4db;
+}
+#img{
+   text-align: center;
+}  
+img{
+        height: 300px;
+    }
+
+h1{
+    text-align: center;
+    font-weight: 500;
+    font-family: "Fredoka" , sans-serif;
+
+}
+
+button{
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 8px;
+    padding: 12px 28px;
+    transition-duration: 0.3s;
+  background-color: #2a9d8f;
+  color: #f1faee;
+}
+
+button:hover {
+    background-color: #264653;
+}
